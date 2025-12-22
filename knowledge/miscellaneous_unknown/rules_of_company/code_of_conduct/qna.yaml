@@ -16,7 +16,6 @@ seed_examples:
         answer: Undang-undang yang menjadi landasan hukum Tata Tertib Perusahaan ini adalah Undang-undang No. 13 Tahun 2003 Tentang Ketenagakerjaan dan Undang-undang Cipta Kerja No. 6 Tahun 2023 Tentang Ketenagakerjaan.
       - question: Apakah Tata Tertib Perusahaan ini sesuai dengan peraturan ketenagakerjaan?
         answer: Ya, Tata Tertib Perusahaan ini sesuai dengan Undang-undang Tentang Ketenagakerjaan dan peraturan pelaksananya.
-  
   - context: |
       Karyawan wajib hadir dan melakukan pekerjaan pada hari kerja dan jam kerja sebagai sebagai berikut:
       - Hari Senin Jam 08.00 s/d 17.00
@@ -92,7 +91,7 @@ seed_examples:
 document_outline: |
   Tata tertib perusahaan yang mengatur tentang waktu kerja, kehadiran, cuti, hari libur, pembayaran gaji, larangan, dan sanksi bagi karyawan.
 document:
-  - repo: https://github.com/anwarramadha/instructlab
-  - commit: 177dcffad66b53ba1cdafc7616a2c604b946b423
-  - patterns:
+  repo: https://github.com/anwarramadha/instructlab
+  commit: 177dcffad66b53ba1cdafc7616a2c604b946b423
+  patterns:
     - code_of_conduct.md

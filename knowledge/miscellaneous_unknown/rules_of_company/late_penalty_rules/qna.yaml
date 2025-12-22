@@ -30,9 +30,45 @@ seed_examples:
         answer: Tujuan dari keputusan ini adalah untuk meningkatkan kedisiplinan kerja karyawan.
       - question: Apakah keputusan ini bersifat permanen?
         answer: Keputusan ini dapat diperbaiki kembali jika kemudian hari terdapat kekeliruan atau kesalahan.
+
+  - context: |
+      | **Keterlambatan**      | **Denda (%)**     |
+      |------------------------|-------------------|
+      |     ≤5 menit           |        0%         |
+      |     >5-15 menit        |        5%         |
+      |     >15-30 menit       |       10%         |
+    questions_and_answers:
+      - question: Berapa persen denda jika terlambat 3 menit?
+        answer: Tidak ada denda karena masih dalam toleransi 5 menit.
+      - question: Apakah keterlambatan 5 menit atau kurang dikenakan denda?
+        answer: Tidak, keterlambatan 5 menit atau kurang tidak dikenakan denda karena masih dalam toleransi.
+      - question: Berapa persen denda jika terlambat 20 menit?
+        answer: Denda untuk keterlambatan lebih dari 15-30 menit adalah potongan 10% dari upah kerja/hari.
+
+  - context: |
+      Keputusan akan diperbaiki kembali jika kemudian hari terdapat kekeliruan atau kesalahan.
+    questions_and_answers:
       - question: Siapa yang akan terpengaruh oleh keputusan ini?
         answer: Karyawan yang terlambat akan terpengaruh oleh keputusan ini.
       - question: Apakah ada kemungkinan perubahan pada keputusan ini di masa depan?
         answer: Ya, keputusan ini dapat diperbaiki kembali jika terdapat kekeliruan atau kesalahan di kemudian hari.
       - question: Mengapa keputusan ini dibuat?
         answer: Keputusan ini dibuat untuk meningkatkan kedisiplinan kerja karyawan.
+
+  - context: |
+      Denda keterlambatan berlaku untuk meningkatkan kedisiplinan kerja karyawan.
+    questions_and_answers:
+      - question: Mengapa keputusan ini dibuat?
+        answer: Keputusan ini dibuat untuk meningkatkan kedisiplinan kerja karyawan.
+      - question: Apa dampak dari keterlambatan terhadap karyawan?
+        answer: Karyawan yang terlambat akan dikenakan potongan dari upah kerja/hari sesuai dengan durasi keterlambatan.
+      - question: Bagaimana cara perusahaan menangani keterlambatan karyawan?
+        answer: Perusahaan menerapkan sistem denda keterlambatan berdasarkan durasi keterlambatan untuk meningkatkan kedisiplinan kerja karyawan.
+
+document_outline: |
+  Ketentuan Denda Keterlambatan Kerja termasuk didalamnya tabel denda keterlambatan berdasarkan durasi keterlambatan, serta informasi mengenai tanggal berlakunya keputusan ini dan tujuannya untuk meningkatkan kedisiplinan kerja karyawan.
+document:
+  repo: https://github.com/anwarramadha/instructlab
+  commit: faf3ed5b5cf2a09128f1be9353e7a000ed24aff7
+  patterns:
+    - late_penalty_rules.md
