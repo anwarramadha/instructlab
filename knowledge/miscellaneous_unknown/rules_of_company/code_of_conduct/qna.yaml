@@ -92,6 +92,6 @@ document_outline: |
   Tata tertib perusahaan yang mengatur tentang waktu kerja, kehadiran, cuti, hari libur, pembayaran gaji, larangan, dan sanksi bagi karyawan.
 document:
   repo: https://github.com/anwarramadha/instructlab
-  commit: 177dcffad66b53ba1cdafc7616a2c604b946b423
+  commit: f331efbe94d2edc83f88fb38a069a86c5d6a3fc1
   patterns:
     - code_of_conduct.md
