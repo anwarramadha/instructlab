@@ -1,4 +1,9 @@
 # Denda Keterlambatan
+## Landasan Hukum
+Landasan hukum Tata Tertib Perusahaan ini adalah:
+1. Undang-Undang No 13 Tahun 2003 tentang Ketenagakerjaan, Bab X tentang Perlindungan Pengupahan dan Kesejahteraan, Pasal 77 tentang Waktu Kerja.
+2. Undang-Undang No 13 Tahun 2003 pasal 88 tentang Pengupahan.
+
 ## Persentase Pemotongan Gaji
 | **Keterlambatan**      | **Denda (%)**     |            **Keterangan**              |
 |------------------------|-------------------|----------------------------------------|
