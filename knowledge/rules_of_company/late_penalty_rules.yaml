@@ -1,0 +1,38 @@
+created_by: anwarramadha
+version: 3
+domain: code_of_conduct
+seed_examples:
+  - context: |
+      | **Keterlambatan**      | **Denda (%)**     |            **Keterangan**              |
+      |------------------------|-------------------|----------------------------------------|
+      |     ≤5 menit           |        0%         | Toleransi                              |
+      |     >5-15 menit        |        5%         | Potongan 5% dari upah kerja/hari       |
+      |     >15-30 menit       |       10%         | Potongan 10% dari upah kerja/hari      |
+      |     >30-60 menit       |       15%         | Potongan 20% dari upah kerja/hari      |
+      |     >60-120 menit      |       30%         | Potongan 30% dari upah kerja/hari      |
+      |     >120-240 menit     |       50%         | Potongan 50% dari upah kerja/hari      |
+    questions_and_answers:
+      - question: Berapa denda keterlambatan jika terlambat 10 menit?
+        answer: Denda keterlambatan untuk keterlambatan lebih dari 5-15 menit adalah potongan 5% dari upah kerja/hari.
+      - question: Apa denda keterlambatan untuk keterlambatan lebih dari 30-60 menit?
+        answer: Denda keterlambatan untuk keterlambatan lebih dari 30-60 menit adalah potongan 15% dari upah kerja/hari.
+      - question: Jika seseorang terlambat selama 2 jam, berapa persen denda yang dikenakan?
+        answer: Jika seseorang terlambat selama 2 jam (120 menit), denda yang dikenakan adalah potongan 30% dari upah kerja/hari.
+      - question: Apakah ada toleransi untuk keterlambatan?
+        answer: Ya, ada toleransi untuk keterlambatan hingga 5 menit tanpa denda.
+
+  - context: |
+      Keputusan ini berlaku untuk meningkatkan kedisiplinan kerja karyawan dan terhitung mulai tanggal 2 Januari 2025. Keputusan akan diperbaiki kembali jika kemudian hari terdapat kekeliruan atau kesalahan.
+    questions_and_answers:
+      - question: Kapan keputusan tentang denda keterlambatan ini mulai berlaku?
+        answer: Keputusan tentang denda keterlambatan ini mulai berlaku pada tanggal 2 Januari 2025.
+      - question: Apa tujuan dari keputusan tentang denda keterlambatan ini?
+        answer: Tujuan dari keputusan ini adalah untuk meningkatkan kedisiplinan kerja karyawan.
+      - question: Apakah keputusan ini bersifat permanen?
+        answer: Keputusan ini dapat diperbaiki kembali jika kemudian hari terdapat kekeliruan atau kesalahan.
+      - question: Siapa yang akan terpengaruh oleh keputusan ini?
+        answer: Karyawan yang terlambat akan terpengaruh oleh keputusan ini.
+      - question: Apakah ada kemungkinan perubahan pada keputusan ini di masa depan?
+        answer: Ya, keputusan ini dapat diperbaiki kembali jika terdapat kekeliruan atau kesalahan di kemudian hari.
+      - question: Mengapa keputusan ini dibuat?
+        answer: Keputusan ini dibuat untuk meningkatkan kedisiplinan kerja karyawan.

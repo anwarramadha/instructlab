@@ -1,0 +1,98 @@
+created_by: anwarramadha
+version: 3
+domain: code_of_conduct
+seed_examples:
+  - context: |
+      Landasan hukum Tata Tertib Perusahaan ini adalah:
+      1. Peraturan Perusahaan PT. Suteki Karya Nusantara (“Peraturan Perusahaan”).
+      2. Undang-undang No. 13 Tahun 2003 Tentang Ketenagakerjaan dan peraturan pelaksananya (“UU Ketenagakerjaan”).
+      3. Undang-undang Cipta Kerja No. 6 Tahun 2023 Tentang Ketenagakerjaan dan peraturan pelaksananya  (“UU Cipta Kerja”).
+    questions_and_answers:
+      - question: Apa landasan hukum Tata Tertib Perusahaan ini?
+        answer: Landasan hukum Tata Tertib Perusahaan ini adalah Peraturan Perusahaan PT. Suteki Karya Nusantara, Undang-undang No. 13 Tahun 2003 Tentang Ketenagakerjaan, dan Undang-undang Cipta Kerja No. 6 Tahun 2023 Tentang Ketenagakerjaan.
+      - question: Siapa yang mengeluarkan Peraturan Perusahaan ini?
+        answer: Peraturan Perusahaan ini dikeluarkan oleh PT. Suteki Karya Nusantara.
+      - question: Apa saja undang-undang yang menjadi landasan hukum Tata Tertib Perusahaan ini?
+        answer: Undang-undang yang menjadi landasan hukum Tata Tertib Perusahaan ini adalah Undang-undang No. 13 Tahun 2003 Tentang Ketenagakerjaan dan Undang-undang Cipta Kerja No. 6 Tahun 2023 Tentang Ketenagakerjaan.
+      - question: Apakah Tata Tertib Perusahaan ini sesuai dengan peraturan ketenagakerjaan?
+        answer: Ya, Tata Tertib Perusahaan ini sesuai dengan Undang-undang Tentang Ketenagakerjaan dan peraturan pelaksananya.
+  
+  - context: |
+      Karyawan wajib hadir dan melakukan pekerjaan pada hari kerja dan jam kerja sebagai sebagai berikut:
+      - Hari Senin Jam 08.00 s/d 17.00
+      - Hari Selasa Jam 08.00 s/d 17.00
+      - Hari Rabu Jam 08.00 s/d 17.00
+      - Hari Kamis Jam 08.00 s/d 17.00
+      - Hari Jumat Jam 08.00 s/d 17.00
+    questions_and_answers:
+      - question: Kapan karyawan wajib hadir dan melakukan pekerjaan?
+        answer: Karyawan wajib hadir dan melakukan pekerjaan pada hari kerja dan jam kerja yang telah ditentukan, yaitu dari Senin hingga Jumat jam 08.00 s/d 17.00.
+      - question: Berapa jam kerja karyawan setiap harinya?
+        answer: Jam kerja karyawan setiap harinya adalah dari jam 08.00 s/d 17.00.
+      - question: Apakah karyawan wajib bekerja pada hari Sabtu dan Minggu?
+        answer: Tidak, karyawan hanya wajib hadir dan melakukan pekerjaan pada hari kerja, yaitu dari Senin hingga Jumat.
+      - question: Pada hari apa saja karyawan diwajibkan untuk bekerja?
+        answer: Karyawan diwajibkan untuk bekerja pada hari Senin, Selasa, Rabu, Kamis, dan Jumat.
+      - question: Apakah ada waktu istirahat selama jam kerja?
+        answer: Informasi mengenai waktu istirahat selama jam kerja tidak disebutkan dalam konteks ini.
+      - question: Apakah jam kerja karyawan fleksibel?
+        answer: Tidak, jam kerja karyawan telah ditentukan yaitu dari jam 08.00 s/d 17.00 setiap hari kerja.
+  - context: |
+      - Karyawan wajib untuk mencatatkan kehadirannya di mesin pencatat kehadiran sebelum dimulainya jam kerja.
+      - Dalam hal Karyawan tidak mencatatkan kehadirannya pada mesin pencatat kehadiran, maka Karyawan dianggap tidak hadir pada hari kerja tersebut.
+      - Dalam hal Karyawan hadir namun tidak mencatatkan kehadirannya tersebut pada mesin pencatat kehadiran, Karyawan dapat melakukan koreksi kehadirannya tersebut dengan mengisi form koreksi kehadiran yang telah disediakan oleh Perusahaan.
+      - Dalam hal Karyawan terlambat mencatatkan kehadirannya pada mesin pencatat kehadiran, maka keterlambatan tersebut akan menjadi catatan performa bagi Karyawan.
+      - Karyawan yang sedang Cuti Sakit tetap melakukan clock in clock out presensi harian sesuai jadwal kerjanya, kecuali kondisi kesehatan tidak memungkinkan untuk melakukannya.
+    questions_and_answers:
+      - question: Apa yang harus dilakukan karyawan sebelum dimulainya jam kerja?
+        answer: Karyawan wajib untuk mencatatkan kehadirannya di mesin pencatat kehadiran sebelum dimulainya jam kerja.
+      - question: Apa yang terjadi jika karyawan tidak mencatatkan kehadirannya pada mesin pencatat kehadiran?
+        answer: Jika karyawan tidak mencatatkan kehadirannya pada mesin pencatat kehadiran, maka karyawan dianggap tidak hadir pada hari kerja tersebut.
+      - question: Bagaimana cara karyawan melakukan koreksi kehadiran jika tidak mencatatkan kehadirannya?
+        answer: Karyawan dapat melakukan koreksi kehadirannya dengan mengisi form koreksi kehadiran yang telah disediakan oleh Perusahaan.
+      - question: Apa konsekuensi jika karyawan terlambat mencatatkan kehadirannya?
+        answer: Keterlambatan tersebut akan menjadi catatan performa bagi karyawan.
+      - question: Apakah karyawan yang sedang Cuti Sakit harus melakukan clock in clock out presensi harian?
+        answer: Ya, karyawan yang sedang Cuti Sakit tetap melakukan clock in clock out presensi harian sesuai jadwal kerjanya, kecuali kondisi kesehatan tidak memungkinkan untuk melakukannya.
+      - question: Apakah ada pengecualian bagi karyawan yang sedang Cuti Sakit dalam mencatat kehadiran?
+        answer: Ya, karyawan yang sedang Cuti Sakit dapat dikecualikan dari mencatat kehadiran jika kondisi kesehatan tidak memungkinkan untuk melakukannya.
+  - context: |
+      Pembayaran upah Karyawan dilakukan setiap bulan selambat-lambatnya pada setiap tanggal terakhir bulan berjalan dengan ketentuan, pembayaran upah Karyawan dilakukan secara transfer antar bank ke rekaning bank Karyawan yang tercatat resmi di Perusahaan.
+    questions_and_answers:
+      - question: Kapan pembayaran upah karyawan dilakukan?
+        answer: Pembayaran upah karyawan dilakukan setiap bulan selambat-lambatnya pada setiap tanggal terakhir bulan berjalan.
+      - question: Bagaimana metode pembayaran upah karyawan?
+        answer: Pembayaran upah karyawan dilakukan secara transfer antar bank ke rekening bank karyawan yang tercatat resmi di Perusahaan.
+      - question: Apakah ada batas waktu tertentu untuk pembayaran upah karyawan?
+        answer: Ya, pembayaran upah karyawan harus dilakukan selambat-lambatnya pada setiap tanggal terakhir bulan berjalan.
+      - question: Apakah karyawan dapat menerima pembayaran upah secara tunai?
+        answer: Tidak, pembayaran upah karyawan dilakukan secara transfer antar bank.
+  - context: |
+      Karyawan dilarang:
+      1. Mengerjakan pekerjaan lain, atau aktivitas lain diluar kewajiban kerja di Perusahaan tanpa sepengetahuan dan seizin Perusahaan dalam Waktu Kerja.
+      2. Berkumpul / mengobrol di Waktu Kerja yang tidak ada kaitan langsung dengan keperluan pekerjaan.
+    questions_and_answers:
+      - question: Apa saja larangan bagi karyawan selama Waktu Kerja?
+        answer: Karyawan dilarang mengerjakan pekerjaan lain atau aktivitas lain diluar kewajiban kerja di Perusahaan tanpa sepengetahuan dan seizin Perusahaan, serta dilarang berkumpul atau mengobrol yang tidak ada kaitan langsung dengan keperluan pekerjaan.
+      - question: Apakah karyawan boleh mengerjakan pekerjaan lain selama Waktu Kerja?
+        answer: Tidak, karyawan dilarang mengerjakan pekerjaan lain selama Waktu Kerja tanpa sepengetahuan dan seizin Perusahaan.
+      - question: Bolehkah karyawan berkumpul atau mengobrol selama Waktu Kerja?
+        answer: Tidak, karyawan dilarang berkumpul atau mengobrol yang tidak ada kaitan langsung dengan keperluan pekerjaan selama Waktu Kerja.
+  - context: |
+      Sanksi yang diberikan meliputi:
+      - Teguran lisan.
+      - Pemberian Surat Peringatan Kesatu (SP-1) yang berlaku untuk selama jangka waktu 6 (enam) bulan.
+    questions_and_answers:
+      - question: Apa saja sanksi yang dapat diberikan kepada karyawan yang melanggar tata tertib perusahaan?
+        answer: Sanksi yang dapat diberikan meliputi teguran lisan dan pemberian Surat Peringatan Kesatu (SP-1) yang berlaku untuk selama jangka waktu 6 (enam) bulan.
+      - question: Berapa lama berlaku Surat Peringatan Kesatu (SP-1)?
+        answer: Surat Peringatan Kesatu (SP-1) berlaku untuk selama jangka waktu 6 (enam) bulan.
+      - question: Apakah teguran lisan termasuk dalam sanksi bagi karyawan?
+        answer: Ya, teguran lisan termasuk dalam sanksi yang dapat diberikan kepada karyawan yang melanggar tata tertib perusahaan.
+document_outline: |
+  Tata tertib perusahaan yang mengatur tentang waktu kerja, kehadiran, cuti, hari libur, pembayaran gaji, larangan, dan sanksi bagi karyawan.
+document:
+  - repo: https://github.com/anwarramadha/instructlab
+  - commit: 177dcffad66b53ba1cdafc7616a2c604b946b423
+  - patterns:
+    - code_of_conduct.md
