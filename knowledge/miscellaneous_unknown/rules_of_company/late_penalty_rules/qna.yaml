@@ -72,3 +72,4 @@ document:
   commit: f331efbe94d2edc83f88fb38a069a86c5d6a3fc1
   patterns:
     - late_penalty_rules.md
+    - code_of_conduct.md

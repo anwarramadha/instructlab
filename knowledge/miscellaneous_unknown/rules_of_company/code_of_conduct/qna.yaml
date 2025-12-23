@@ -88,6 +88,30 @@ seed_examples:
         answer: Surat Peringatan Kesatu (SP-1) berlaku untuk selama jangka waktu 6 (enam) bulan.
       - question: Apakah teguran lisan termasuk dalam sanksi bagi karyawan?
         answer: Ya, teguran lisan termasuk dalam sanksi yang dapat diberikan kepada karyawan yang melanggar tata tertib perusahaan.
+  - context: |
+      Besarnya Upah Kerja Lembur adalah sebesar Upah Kerja Lembur Perjam dikali jumlah jam pelaksanaan Kerja Lembur dalam 1 (satu) bulan.
+      Besarnya Upah Lembur untuk setiap jam adalah sebagai berikut:
+      |                 **Waktu Kerja Lembur**                  |         **Upah Kerja Lembur**    |
+      |---------------------------------------------------------|----------------------------------|
+      |     Hari Kerja                |        Jam Ke-1         | 1.5 x Upah Sejam                 |
+      |                               |        Jam Ke-2 dst     | 2 x Upah Sejam                   |
+      |                               |                         |                                  |
+      |     Hari Istirahat Mingguan
+      & hari Libur Resmi              | Jam ke-1 s/d Jam ke-8   | 2 x Upah Sejam                   |
+      |                               |       Jam Ke-9          | 3 x Upah Sejam                   |
+      |                               | Jam Ke-10 s/d Jam Ke-12 | 4 x Upah Sejam                   |
+      Besarnya Upah Sejam = 1/173 x (Upah Pokok + Tunjangan Tetap)
+    questions_and_answers:
+      - question: Bagaimana cara menghitung besarnya Upah Kerja Lembur?
+        answer: Besarnya Upah Kerja Lembur dihitung dengan mengalikan Upah Kerja Lembur Perjam dengan jumlah jam pelaksanaan Kerja Lembur dalam 1 (satu) bulan.
+      - question: Berapa besarnya Upah Lembur untuk jam pertama pada Hari Kerja?
+        answer: Besarnya Upah Lembur untuk jam pertama pada Hari Kerja adalah 1.5 x Upah Sejam.
+      - question: Berapa besarnya Upah Lembur untuk jam kedua dan seterusnya pada Hari Kerja?
+        answer: Besarnya Upah Lembur untuk jam kedua dan seterusnya pada Hari Kerja adalah 2 x Upah Sejam.
+      - question: Berapa besarnya Upah Lembur untuk jam pertama hingga jam kedelapan pada Hari Istirahat Mingguan dan hari Libur Resmi?
+        answer: Besarnya Upah Lembur untuk jam pertama hingga jam kedelapan pada Hari Istirahat Mingguan dan hari Libur Resmi adalah 2 x Upah Sejam.
+      - question: Bagaimana cara menghitung Besarnya Upah Sejam?
+        answer: Besarnya Upah Sejam dihitung dengan rumus 1/173 x (Upah Pokok + Tunjangan Tetap).
 document_outline: |
   Tata tertib perusahaan yang mengatur tentang waktu kerja, kehadiran, cuti, hari libur, pembayaran gaji, larangan, dan sanksi bagi karyawan.
 document:

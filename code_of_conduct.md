@@ -32,6 +32,10 @@ Karyawan berhak mendapatkan waktu istirahat kerja sebagai berikut:
 - Hari Kamis, Istirahat siang selama 45 menit, istirahat sore 15 menit
 - Hari Jumat, Istirahat siang selama 75 menit, istirahat sore 15 menit
 
+### Istirahat Sakit
+Karyawan yang kurang fit pada saat jam kerja (sakit kepala, pusing, lemas, dll) diizinkan istirahat untuk pemulihan maksimal selama 30 menit setelah mendapat izin dari atasan langsung dan diberitahukan kepada HR.
+Karyawan menjalankan Istirahat Karena Sakit sebanyak 1 (satu) hari atau lebih secara berturut-turut maka Karyawan yang bersangkutan atau keluarganya wajib menyerahkan surat keterangan dokter perihal sakitnya itu kepada Perusahaan dalam jangka waktu selambat-lambatnya 2 (dua) hari kerja sejak Karyawan yang bersangkutan menjalankan Istirahat Karena Sakit.
+
 #### Ketentuan Lainnya
 - Jadwal istirahat siang dapat berubah sesuai dengan waktu sholat zuhur, waktu istirahat sore dapat berubah sesuai dengan waktu sholat ashar, yang akan diberitahukan secara periodik oleh HR.
 - Karyawan berhak untuk mendapatkan istirahat mingguan pada hari Sabtu dan hari Minggu.
@@ -48,11 +52,56 @@ Karyawan wajib untuk mencatatkan kehadirannya secara tepat waktu pada setiap har
 Waktu kerja Karyawan Work From Home (WFH) / Work From Anywhere (WFA) sama dengan waktu kerja Karyawan Work From Office (WFO).
 
 ## Cuti
+
+### Cuti Tahunan
 Karyawan yang telah melakukan pekerjaan selama 12 (dua belas) bulan secara terus menerus di Perusahaan berhak untuk mendapatkan cuti tahunan dengan ketentuan:
 - Cuti tahunan wajib diajukan oleh Karyawan kepada Perusahaan dalam jangka waktu selambat-lambatnya 5 (lima) hari kerja sebelum tanggal efektif cuti tahunan tersebut.
 - Pengajuan cuti tahunan dilakukan dengan mengisi dan menandatangani formulir permohonan cuti tahunan yang turut ditandatangani / disetujui oleh atasan langsung Karyawan dan Manajer Sumber Daya Manusia sebagai bukti persetujuan.
 - Perusahaan berhak untuk menolak pengajuan cuti tahunan yang diajukan oleh Karyawan dalam hal menurut penilaian Perusahaan terdapat kondisi tertentu yang menyebabkan Karyawan belum dapat mengajukan cuti tahunan tersebut.
 - Cuti tahunan yang tidak diambil oleh Karyawan dalam tahun berjalan tidak dapat diakumulasikan dengan cuti tahunan untuk tahun berikutnya dan dapat dikompensasikan dalam bentuk uang.
+
+### Cuti Melahirkan
+- Karyawan perempuan yang melahirkan berhak untuk memperoleh Cuti Melahirkan dengan ketentuan Istirahat Karena Melahirkan berlangsung untuk jangka waktu selama 1,5 (satu setengah) bulan sebelum melahirkan dan 1,5 (satu setengah) bulan sesudah melahirkan berdasarkan perhitungan dokter kandungan atau bidan.
+- Karyawan perempuan yang mengalami keguguran kandungan berhak untuk Cuti Keguguran yang berlangsung maksimal selama 1,5 (satu setengah) bulan setelah terjadinya keguguran kandungan atau sesuai dengan surat keterangan dokter kandungan.
+- Karyawan perempuan yang melahirkan dapat memperpanjang Cuti Melahirkan selama 3 (tiga) bulan jika terdapat kondisi khusus yang dibuktikan dengan surat keterangan dokter.
+- Selama menjalankan Cuti Melahirkan dan Cuti Keguguran, Karyawan tetap berhak untuk memperoleh Upah secara penuh.
+
+### Cuti Haid
+- Karyawan perempuan yang mengalami rasa sakit pada masa haid berhak untuk memperoleh Cuti Haid pada hari pertama dan hari kedua masa haid tersebut.
+- Cuti Haid diberikan dengan ketentuan, Karyawan wajib untuk memberitahukan kepada Perusahaan baik secara lisan maupun tertulis dalam waktu sesegera mungkin sejak Karyawan yang bersangkutan menjalankan Cuti Haid tersebut.
+- Pengajuan Cuti Haid disertai dengan Surat Keterangan Dokter.
+- Selama menjalankan Cuti Haid, Karyawan tetap berhak untuk memperoleh Upah secara penuh.
+
+### Cuti Luar Tanggungan
+- Cuti Luar Tanggungan (CLT) diberikan untuk keperluan pribadi Karyawan yang mendesak atau alasan-alasan tertentu yang tidak tercakup dalam jenis cuti yang diatur oleh undang-undang atau kebijakan perusahaan, seperti urusan keluarga atau urusan lain yang ditetapkan/ diizinkan oleh perusahaan.
+- Durasi dan persutujuan CLT tergantung pada alasan pengajuan dan persetujuan dari manajemen atau HR.
+- Perusahaan berhak untuk menolak pengajuan CLT yang diajukan oleh Karyawan dengan alasan kondisi dan kebutuhan Perusahaan menuntut kehadiran Karyawan yang bersangkutan untuk melaksanan Pekerjaan.
+- Selama masa CLT, karyawan tidak mendapatkan upah atau tunjangan lain seperti asuransi, bonus, atau fasilitas lain dari perusahaan.
+- Tidak mengurangi cuti tahunan.
+
+### Cuti Setengah Hari
+-  Cuti ½ Hari diberikan kepada karyawan yang memiliki keperluan penting namun bisa melanjutkan pekerjaan setengah hari.
+- Menjadi pengurang cuti tahunan.
+
+## Meninggalkan Waktu Kerja
+Karyawan berhak untuk meninggalkan Waktu Kerja dengan mendapat izin terlebih dahulu dari Perusahaan dengan ketentuan:
+### Alasan yang Dapat Diterima Untuk Meninggalkan Waktu Kerja
+- Adanya kematian salah satu anggota keluarga Karyawan, yaitu orang tua, mertua, saudara kandung, istri dan/atau anak dalam waktu selama 2 (dua) hari kerja.
+- Adanya perkawinan Karyawan yang bersangkutan dalam waktu selama 3 (tiga) hari kerja.
+- Adanya perkawinan anak sah dari Karyawan dalam waktu selama 2 (dua) hari kerja.
+- Istri sah dari Karyawan melahirkan/keguguran dalam waktu selama 2 (dua) hari kerja.
+- Anggota keluarga Karyawan dalam satu rumah meninggal dunia dalam waktu selama 1 (satu) hari kerja.
+- Dilakukannya khitanan/pembaptisan anak sah dari Karyawan dalam waktu selama 2 (dua) hari kerja.
+### Aturan Lainnya
+- Jika alasan meninggalkan waktu kerja terjadi diluar kota atau berjarak lebih dari 60 km dari lokasi kerja, maka Karyawan berhak untuk mendapatkan waktu tambahan sebanyak-banyaknya 2 hari kerja.
+- Waktu meninggalkan Waktu Kerja sebagaimana dimaksud diatas tidak mengurangi cuti tahunan Karyawan.
+- Untuk alasan meninggalkan waktu kerja wajib mengajukan permohonan kepada Perusahaan selambat-lambatnya 14 hari kerja sebelum tanggal meninggalkan Waktu Kerja, kecuali untuk alasan kematian anggota keluarga Karyawan dalam satu rumah.
+
+## Meninggalkan Waktu Kerja Tanpa Izin
+- Karyawan yang meninggalkan Waktu Kerja dengan tidak mendapatkan izin terlebih dahulu dari Perusahaan akan dianggap tidak hadir atau mangkir, dan kepada Karyawan yang bersangkutan dapat dikenakan sanksi berupa Teguran Lisan.
+- Jumlah hari ketidakhadiran sebagaimana dimaksud dalam ayat (1) Pasal ini akan diperhitungkan sebagai Cuti Tahunan.
+- Karyawan yang meninggalkan Waktu Kerja tanpa izin dapat dikenakan denda pemotongan upah.
+
 
 ## Hari Libur
 Karyawan berhak untuk mendapatkan libur pada hari libur resmi yang ditentukan oleh pemerintah maupun oleh perusahaan dengan ketentuan, libur resmi tersebut ditentukan berdasarkan peraturan atau keputusan resmi dari pemerintah atau berdasarkan peraturan atau keputusan resmi dari perusahaan.
@@ -90,12 +139,69 @@ Karyawan wajib untuk melaporkan kepada Perusahaan dalam hal terjadi perubahan da
 Data Karyawan akan digunakan oleh Perusahaan untuk berbagai keperluan yang berkaitan dengan hubungan kerja Karyawan.
 
 ## Pembayaran Upah
+### Komponen Upah
+Upah Karyawan terdiri dari:
+- Gaji Pokok.
+- Tunjangan Hari Raya Keagamaan (THR).
+- Bonus
+
 ### Waktu Pembayaran Upah
 Pembayaran upah Karyawan dilakukan setiap bulan selambat-lambatnya pada setiap tanggal terakhir bulan berjalan dengan ketentuan, pembayaran upah Karyawan dilakukan secara transfer antar bank ke rekaning bank Karyawan yang tercatat resmi di Perusahaan.
 ### Nomor Rekening Bank Karyawan
 Karyawan wajib untuk mencatatkan rekening bank Karyawan di Perusahaan untuk keperluan pembayaran upah Karyawan dengan ketentuan, hanya rekening bank Karyawan yang tercatat secara resmi pada Perusahaan yang akan digunakan untuk pembayaran upah Karyawan.
 ### Perubahan Nomor Rekening Bank Karyawan
 Karyawan wajib melaporkan kepada Perusahaan dalam hal terjadi perubahan rekening bank Karyawan.
+### Upah Karyawan Yang Istirahat, Cuti dan Meninggalkan Waktu Kerja
+### Karyawan Sakit Berkepanjangan
+Karyawan sakit berkepanjangan berhak mendapatkan upah dengan ketentuan:
+- Untuk 4 (empat) bulan pertama, dibayar 100% (seratus persen) dari Upah Pokok dan Tunjangan Tetap.
+- Untuk 4 (empat) bulan kedua, dibayar 75% (tujuh puluh lima persen) dari Upah Pokok dan Tunjangan Tetap.
+- Untuk 4 (empat) bulan ketiga, dibayar 50% (lima puluh persen) dari Upah Pokok dan Tunjangan Tetap.
+- Untuk bulan selanjutnya dibayar 25% (dua puluh lima persen) dari Upah Pokok dan Tunjangan Tetap sebelum Pemutusan Hubungan Kerja dilakukan oleh Perusahaan.
+### Karyawan Cuti Haid
+Karyawan Perempuan yang mengalami sakit pada hari pertama dan kedua masa haidnya sehingga tidak dapat melakukan Pekerjan, pembayaran Upahnya disesuaikan dengan jumlah hari menjalani sakit haidnya dibayar untuk paling lama 2 (dua) hari.
+### Karyawan Meninggalkan Waktu Kerja
+Karyawan tidak masuk kerja karena:
+- Menikah dibayar untuk selama 3 (tiga) hari.
+- Menikahkan anaknya dibayar untuk selama 2 (dua) hari.
+- Mengkhitankan anaknya dibayar untuk selama 2 (dua) hari.
+- Membaptiskan anaknya dibayar untuk selama 2 (dua) hari.
+- Isteri dari Karyawan melahirkan atau keguguran kandungan dibayar untuk selama 2 (dua) hari.
+- Suami/isteri, orang tua, mertua, anak, dan/atau menantu dari Karyawan meninggal dunia dibayar untuk selama 2 (dua) hari.
+
+## Upah Kerja Lembur
+Karyawan yang melakukan Kerja Lembur berhak untuk memperoleh Upah Kerja Lembur yang perhitungan dan pembayarannya dilakukan setiap bulan berjalan bersamaan dengan perhitungan dan pembayaran Upah.
+### Karyawan yang Berhak Lembur
+Golongan Karyawan yang berhak atas upah lembur adalah Karyawan yang memiliki jabatan dibawah Supervisor. Golongan Karyawan level Supervisor ke atas, tidak berhak atas Upah Lembur.
+### Perhitungan Upah Kerja Lembur
+Besarnya Upah Kerja Lembur adalah sebesar Upah Kerja Lembur Perjam dikali jumlah jam pelaksanaan Kerja Lembur dalam 1 (satu) bulan.
+Besarnya Upah Lembur untuk setiap jam adalah sebagai berikut:
+|                 **Waktu Kerja Lembur**                  |         **Upah Kerja Lembur**    |
+|---------------------------------------------------------|----------------------------------|
+|     Hari Kerja                |        Jam Ke-1         | 1.5 x Upah Sejam                 |
+|                               |        Jam Ke-2 dst     | 2 x Upah Sejam                   |
+|                               |                         |                                  |
+|     Hari Istirahat Mingguan
+& hari Libur Resmi              | Jam ke-1 s/d Jam ke-8   | 2 x Upah Sejam                   |
+|                               |       Jam Ke-9          | 3 x Upah Sejam                   |
+|                               | Jam Ke-10 s/d Jam Ke-12 | 4 x Upah Sejam                   |
+Besarnya Upah Sejam = 1/173 x (Upah Pokok + Tunjangan Tetap)
+
+
+## Jaminan Kesejahteraan Karyawan
+Perusahaan wajib untuk memberikan Jaminan Kesehateraan Karyawan kepada Karyawan dalam bentuk:
+- BPJS Kesehatan
+- BPJS Ketenagakerjaan
+- Koperasi Karyawan
+- Peralatan Kerja
+- Perjalanan Dinas
+### BPJS Ketenagakerjaan
+Perusahaan wajib untuk mengikutsertakan Karyawan dalam program jaminan sosial tenaga kerja pada Badan Penyelenggara Jaminan Sosial Ketenagakerjaan (BPJS Ketenagakerjaan) yang berupa jaminan yang meliputi:
+- Jaminan Kecelakaan Kerja (JKK)
+- Jaminan Kematian (JKM)
+- Jaminan Hari Tua (JHT)
+- Jaminan Kehilangan Pekerjaan (JKP)
+- Jaminan Pensiun (JP)
 
 ## Perjalanan Dinas
 Karyawan wajib untuk melakukan perjanlanan dinas untuk melakukan pekerjaan berdasarkan perintah dan/atau instruksi yang diberikan oleh Perusahaan.
